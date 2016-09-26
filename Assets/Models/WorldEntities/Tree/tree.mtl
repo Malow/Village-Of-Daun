@@ -1,0 +1,63 @@
+newmtl house2:lambert5SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd treegrass.png
+Ni 1.000000 
+
+newmtl initialShadingGroup
+illum 4
+Kd 0.500000 0.500000 0.500000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+Ni 1.000000 
+
+newmtl lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd tree1.jpg
+Ni 1.000000 
+
+newmtl lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd tree2.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd tree1.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd tree2.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd tree1.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd tree2.jpg
+Ni 1.000000 
+

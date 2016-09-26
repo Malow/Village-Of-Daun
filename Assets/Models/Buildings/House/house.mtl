@@ -1,0 +1,143 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.500000 0.500000 0.500000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+Ni 1.000000 
+
+newmtl lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house4.jpg
+Ni 1.000000 
+
+newmtl lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+
+newmtl lambert4SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house3.jpg
+Ni 1.000000 
+
+newmtl lambert5SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd housegrass.png
+Ni 1.000000 
+
+newmtl pasted__lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house4.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert2SG1
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house4.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert3SG1
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert3SG2
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert4SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house3.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert4SG1
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house3.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert2SG1
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house4.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert3SG1
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert3SG2
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert4SG1
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house3.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__pasted__lambert3SG1
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd house5.jpg
+Ni 1.000000 
+

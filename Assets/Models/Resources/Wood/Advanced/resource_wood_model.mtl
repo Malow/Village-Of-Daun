@@ -1,0 +1,48 @@
+newmtl lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd Bark.jpg
+Ni 1.000000 
+
+newmtl lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd End.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd Bark.jpg
+Ni 1.000000 
+
+newmtl pasted__lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd End.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert2SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd Bark.jpg
+Ni 1.000000 
+
+newmtl pasted__pasted__lambert3SG
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd End.jpg
+Ni 1.000000 
+

@@ -1,0 +1,40 @@
+newmtl FoodBush:initialShadingGroup
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd FoodBushTexture.png
+Ni 1.000000 
+
+newmtl FoodBush1:initialShadingGroup
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd FoodBushTexture.png
+Ni 1.000000 
+
+newmtl FoodBush2:initialShadingGroup
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd FoodBushTexture.png
+Ni 1.000000 
+
+newmtl FoodBush3:initialShadingGroup
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd FoodBushTexture.png
+Ni 1.000000 
+
+newmtl FoodBush4:initialShadingGroup
+illum 4
+Kd 0.000000 0.000000 0.000000
+Ka 0.000000 0.000000 0.000000
+Tf 1.000000 1.000000 1.000000
+map_Kd FoodBushTexture.png
+Ni 1.000000 
+
